@@ -1,8 +1,8 @@
 Hi. My Name is Alex.
 
 I'm a software and electrical engineer from Amsterdam.
-Electronics is my passion.
+<br> Check my skills, services and contacts at [Metalbox Store](https://metalbox-store.org/services)
 
-You can contact me with following credentials:
 
-alex(@)metalbox-store.org
+
+
